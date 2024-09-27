@@ -1,7 +1,13 @@
 <h1>Retirement Analytics</h1>
 
 <h2>Description</h2>
-This project demonstrates the creation of a pivot table to analyze monthly expenses across categories such as groceries, cosmetic health, and entertainment. Excel’s PivotTable functionality was used to consolidate data, summarize actual costs, benchmark budgets, and highlight discrepancies between spending and predefined budgets. Other Excel tools, like slicers were used to filter and visualize data interactively, providing deeper insights into financial trends. The analysis highlighted areas where expenses exceeded the predefined budget, such as in the cosmetic health category, offering a starting point for improving spending habits. This project showcases expertise in using Excel for data organization, financial analysis, and interactive reporting, offering critical analysis for budget control and future decision-making.
+This project focused on developing a comprehensive retirement analytics model. The analysis incorporated key financial variables, including stock growth, inflation rates, and Social Security adjustments, to forecast year-over-year 401K balances and expenses. Detailed calculations were performed to determine optimal withdrawal amounts from 401K accounts, considering projected Social Security income and retirement needs. The results provided a clear financial plan, ensuring sufficient retirement income over time while managing withdrawal rates. This model supports strategic decision-making for retirement planning, offering a valuable tool for long-term financial security analysis.
+
+In this Excel project, Mathematical formulas were used to calculate the following:
+
+1. Stock Growth and Inflation: Includes annual assumptions for stock growth and inflation rates.
+2.401K Balance and Social Security Income: Tracks the year-by-year 401K balance, Social Security (SS) income, and retirement expenses.
+3. Withdrawal Calculations: Details the amount withdrawn from the 401K to cover retirement expenses, including the percentage of withdrawal each year.
 <br />
 
 
