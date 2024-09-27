@@ -6,7 +6,7 @@ This project focused on developing a comprehensive retirement analytics model. T
 In this Excel project, Mathematical formulas were used to calculate the following:
 
 1. Stock Growth and Inflation: Includes annual assumptions for stock growth and inflation rates.
-2.401K Balance and Social Security Income: Tracks the year-by-year 401K balance, Social Security (SS) income, and retirement expenses.
+2. 401K Balance and Social Security Income: Tracks the year-by-year 401K balance, Social Security (SS) income, and retirement expenses.
 3. Withdrawal Calculations: Details the amount withdrawn from the 401K to cover retirement expenses, including the percentage of withdrawal each year.
 
 <br />
